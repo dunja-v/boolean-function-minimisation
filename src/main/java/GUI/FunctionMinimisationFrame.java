@@ -47,7 +47,7 @@ public class FunctionMinimisationFrame extends JFrame {
     
     public FunctionMinimisationFrame(){
         setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);        
-        setTitle("Minimizacija Booleovih funkcija");
+        setTitle("Minimizacija Booleovih funkcija (Autor: Dunja Vesinger)");
         initGUI();
         setSize(900, 600);
         setLocationRelativeTo(null);
